@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/counterhooks/static/css/main.5f361e03.chunk.css",
+    "main.js": "/counterhooks/static/js/main.ecda8034.chunk.js",
+    "main.js.map": "/counterhooks/static/js/main.ecda8034.chunk.js.map",
+    "runtime-main.js": "/counterhooks/static/js/runtime-main.286ce135.js",
+    "runtime-main.js.map": "/counterhooks/static/js/runtime-main.286ce135.js.map",
+    "static/js/2.894174b0.chunk.js": "/counterhooks/static/js/2.894174b0.chunk.js",
+    "static/js/2.894174b0.chunk.js.map": "/counterhooks/static/js/2.894174b0.chunk.js.map",
+    "index.html": "/counterhooks/index.html",
+    "precache-manifest.3acf2db3857f3f33b62a27df34eb4c7e.js": "/counterhooks/precache-manifest.3acf2db3857f3f33b62a27df34eb4c7e.js",
+    "service-worker.js": "/counterhooks/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/counterhooks/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.894174b0.chunk.js.LICENSE.txt": "/counterhooks/static/js/2.894174b0.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/counterhooks/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.286ce135.js",
+    "static/js/2.894174b0.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.ecda8034.chunk.js"
+  ]
+}
